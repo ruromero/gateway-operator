@@ -5,7 +5,7 @@ go 1.18
 require (
 	github.com/go-logr/logr v1.2.3
 	github.com/google/uuid v1.3.0
-	github.com/kong/kubernetes-testing-framework v0.15.1
+	github.com/kong/kubernetes-testing-framework v0.16.0
 	github.com/stretchr/testify v1.8.0
 	k8s.io/api v0.24.3
 	k8s.io/apimachinery v0.24.3
