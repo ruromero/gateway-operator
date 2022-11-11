@@ -8,7 +8,7 @@ require (
 	github.com/google/uuid v1.3.0
 	github.com/kong/kubernetes-testing-framework v0.23.0
 	github.com/stretchr/testify v1.8.1
-	k8s.io/api v0.25.3
+	k8s.io/api v0.25.4
 	k8s.io/apimachinery v0.25.4
 	k8s.io/client-go v0.25.3
 	k8s.io/utils v0.0.0-20220728103510-ee6ede2d64ed
