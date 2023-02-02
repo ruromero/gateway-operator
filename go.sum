@@ -253,8 +253,8 @@ github.com/kevinburke/ssh_config v1.2.0 h1:x584FjTGwHzMwvHx18PXxbBVzfnxogHaAReU4
 github.com/kevinburke/ssh_config v1.2.0/go.mod h1:CT57kijsi8u/K/BOFA39wgDQJ9CxiF4nAY/ojJ6r6mM=
 github.com/kisielk/errcheck v1.5.0/go.mod h1:pFxgyoBC7bSaBwPgfKdkLd5X25qrDl4LWUI2bnpBCr8=
 github.com/kisielk/gotool v1.0.0/go.mod h1:XhKaO+MFFWcvkIS/tQcRk01m1F5IRFswLeQ+oQHNcck=
-github.com/kong/kubernetes-testing-framework v0.27.0 h1:JZVcbVWXmyjmxbjqDx8m3ZSUDpzEkFYyLI21KQ3SIP0=
-github.com/kong/kubernetes-testing-framework v0.27.0/go.mod h1:hAqBG1CHcghB/8Aucc7KIj3FgpVZ4jIuxOq9LZeXnI4=
+github.com/kong/kubernetes-testing-framework v0.28.0 h1:6/NeKcsfeOc+uhAQcNuEgXn9w0QsUziD8Udp11IIMAI=
+github.com/kong/kubernetes-testing-framework v0.28.0/go.mod h1:GTh/IvYaLr6IEldoUilDu4qL1vTjIYAdu90L/08vgrE=
 github.com/konsorten/go-windows-terminal-sequences v1.0.1/go.mod h1:T0+1ngSBFLxvqU3pZ+m/2kptfBszLMUkC4ZK/EgS/cQ=
 github.com/konsorten/go-windows-terminal-sequences v1.0.3/go.mod h1:T0+1ngSBFLxvqU3pZ+m/2kptfBszLMUkC4ZK/EgS/cQ=
 github.com/kr/logfmt v0.0.0-20140226030751-b84e30acd515/go.mod h1:+0opPa2QZZtGFBFZlji/RkVcI2GknAs/DXo4wKdlNEc=
