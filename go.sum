@@ -159,8 +159,8 @@ github.com/kevinburke/ssh_config v1.2.0 h1:x584FjTGwHzMwvHx18PXxbBVzfnxogHaAReU4
 github.com/kevinburke/ssh_config v1.2.0/go.mod h1:CT57kijsi8u/K/BOFA39wgDQJ9CxiF4nAY/ojJ6r6mM=
 github.com/kisielk/errcheck v1.5.0/go.mod h1:pFxgyoBC7bSaBwPgfKdkLd5X25qrDl4LWUI2bnpBCr8=
 github.com/kisielk/gotool v1.0.0/go.mod h1:XhKaO+MFFWcvkIS/tQcRk01m1F5IRFswLeQ+oQHNcck=
-github.com/kong/kubernetes-testing-framework v0.31.2 h1:H0FAxEtioqzuDCXhyDZY/DgofmISz3plQ+gYhv0/eUY=
-github.com/kong/kubernetes-testing-framework v0.31.2/go.mod h1:5QNR3xLWvglEEnb4WCvfkoEzQYfSnGdqM41gle1XcqA=
+github.com/kong/kubernetes-testing-framework v0.32.0 h1:pJ4XzKKPtuFKTCaYCAmIGNMBEL+JDUMQhTeBqeth1OQ=
+github.com/kong/kubernetes-testing-framework v0.32.0/go.mod h1:x7RVt7ElvNuYnrBniQoBuTr/V6cj9aS74WcuaKsXzqU=
 github.com/kr/pretty v0.1.0/go.mod h1:dAy3ld7l9f0ibDNOQOHHMYYIIbhfbHSm3C4ZsoJORNo=
 github.com/kr/pretty v0.2.0/go.mod h1:ipq/a2n7PKx3OHsz4KJII5eveXtPO4qwEXGdVfWzfnI=
 github.com/kr/pretty v0.2.1/go.mod h1:ipq/a2n7PKx3OHsz4KJII5eveXtPO4qwEXGdVfWzfnI=
