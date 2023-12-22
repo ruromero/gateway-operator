@@ -4,7 +4,7 @@ go 1.18
 
 require (
 	github.com/Masterminds/semver v1.5.0
-	github.com/go-logr/logr v1.4.0
+	github.com/go-logr/logr v1.4.1
 	github.com/google/uuid v1.5.0
 	github.com/kong/kubernetes-testing-framework v0.43.0
 	github.com/stretchr/testify v1.8.4
