@@ -6,7 +6,7 @@ require (
 	github.com/Masterminds/semver v1.5.0
 	github.com/go-logr/logr v1.4.3
 	github.com/google/uuid v1.6.0
-	github.com/kong/kubernetes-testing-framework v0.50.0
+	github.com/kong/kubernetes-testing-framework v0.51.0
 	github.com/stretchr/testify v1.11.1
 	k8s.io/api v0.36.1
 	k8s.io/apimachinery v0.36.1
@@ -74,7 +74,7 @@ require (
 	golang.org/x/sync v0.20.0 // indirect
 	gopkg.in/evanphx/json-patch.v4 v4.13.0 // indirect
 	gopkg.in/warnings.v0 v0.1.2 // indirect
-	sigs.k8s.io/kind v0.31.0 // indirect
+	sigs.k8s.io/kind v0.32.0 // indirect
 	sigs.k8s.io/kustomize/api v0.21.1 // indirect
 	sigs.k8s.io/kustomize/kyaml v0.21.1 // indirect
 	sigs.k8s.io/randfill v1.0.0 // indirect
